@@ -75,11 +75,11 @@ nome repo 1: laravel-api
 Aggiungiamo al nostro progetto Laravel una nuovo Api/ProjectController. Questo controller risponderà a delle richieste via API e si occuperà di restituire la lista dei progetti presenti nel database in formato json.
 Milestone 2 OK
 Testiamo la chiamata API tramite Postman e assicuriamoci di ricevere i dati correttamente.
-Milestone 3
+Milestone 3 OK
 nome repo 2: vite-boolfolio
 Iniziamo ad occuparci della parte front-office della nostra applicazione: creiamo un nuovo progetto Vue 3 con Vite e installiamo axios.
 Colleghiamo questo progetto ad una repo separata.
-Milestone 4
+Milestone 4 OK
 Nel componente principale della nostra Vue App facciamo una chiamata API all’endpoint costruito nel progetto Laravel (milestone 1) e recuperiamo tutti i progetti dal nostro back-end.
 Stampiamo in console i risultati e verifichiamo di ricevere i dati correttamente.
 Milestone 5
